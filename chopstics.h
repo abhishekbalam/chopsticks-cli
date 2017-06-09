@@ -1,0 +1,23 @@
+
+void key();
+void intro();
+void rules();
+void names();
+void turns(int l1, int r1, int l2, int r2);
+void pHeader();
+void player1();
+void player2();
+void tap1();
+void Tap1a();
+void Tap2a();
+void trans1();
+void divide1();
+void tap2();
+void Tap1b();
+void Tap2b();
+void tran2();
+void divide2();
+void check();
+char Player1[10],Player2[10];
+int l1=1,r1=1,l2=1,r2=1;
+char tleft,tright,sleft,sright;
